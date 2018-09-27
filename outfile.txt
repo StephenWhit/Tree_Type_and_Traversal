@@ -1,0 +1,84 @@
+1
+Tree is empty.
+P is inserted
+F is inserted
+S is inserted
+70  80  83  
+B is inserted
+H is inserted
+G is inserted
+R is inserted
+Y is inserted
+T is inserted
+Z is inserted
+W is inserted
+Pre Order: 80 70 66 72 71 83 82 89 84 87 90 
+Post Order: 66 71 72 70 82 87 84 90 89 83 80 
+Ancestors of 87: 80 83 89 84 
+WTree is not full.
+Tree is not empty.
+P found in list.
+G found in list.
+T found in list.
+A not in list.
+N not in list.
+66  70  71  72  80  82  83  84  87  89  90  
+Next item is: B
+Next item is: F
+Next item is: G
+Next item is: H
+Next item is: P
+Next item is: R
+Next item is: S
+Next item is: T
+Next item is: W
+Next item is: Y
+Next item is: Z
+IN_ORDER traversal is complete.
+66  70  71  72  80  82  83  84  87  89  90  
+Next item is: B
+Next item is: G
+Next item is: H
+Next item is: F
+Next item is: R
+Next item is: W
+Next item is: T
+Next item is: Z
+Next item is: Y
+Next item is: S
+Next item is: P
+POST_ORDER traversal is complete.
+66  70  71  72  80  82  83  84  87  89  90  
+Next item is: P
+Next item is: F
+Next item is: B
+Next item is: H
+Next item is: G
+Next item is: S
+Next item is: R
+Next item is: Y
+Next item is: T
+Next item is: W
+Next item is: Z
+PRE_ORDER traversal is complete.
+66  70  71  72  80  82  83  84  87  89  90  
+Number of nodes is 11
+Tree is not empty.
+W is deleted
+Z is deleted
+S is deleted
+P is deleted
+F is deleted
+B is deleted
+H is deleted
+G is deleted
+R is deleted
+T is deleted
+Y is deleted
+Tree is empty.
+A is inserted
+B is inserted
+65  66  
+Tree has been made empty.
+Tree is empty.
+Tree has been made empty.
